@@ -1,0 +1,18 @@
+Homework Problems  Lec 1-2:
+Q1.Try to declare meaningful variables of each type. Eg - a variable named age should be a numeric type (int or float) not byte.
+Q2.Make a program that takes the radius of a circle as input, calculates its radius and area and prints it as output to the user.
+Q3.Make a program that prints the table of a number that is input by the user. 
+(HINT - You will have to write 10 lines for this but as we proceed in the course you will be studying about ‘LOOPS’ that will simplify your work A LOT!)
+
+
+Lecture 3:
+Q1. Make a Calculator. Take 2 numbers (a & b) from the user and an operation as follows : 
+	1 : + (Addition) a + b
+	2 : - (Subtraction) a - b
+	3 : * (Multiplication) a * b
+	4 : / (Division) a / b
+	5 : % (Modulo or remainder) a % b
+	Calculate the result according to the operation given and display it to the user.
+Q2. Ask the user to enter the number of the month & print the name of the month. For eg - For ‘1’ print ‘January’, ‘2’ print ‘February’ & so on.
+
+KEEP LEARNING & KEEP PRACTICING :)
