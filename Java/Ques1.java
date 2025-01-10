@@ -4,7 +4,7 @@ public class Ques1{
         int arr[]= {7,7,7,7,7,7,7,7,7,7};
         int min = 0;
         int max = 0;
-        for(int i= 0; i< arr.length-1; i++){
+        for(int i= 0; i< arr.length-1; i++){  // this is not a proper solution right now
             if(arr[i]< arr[min]){
                 min = arr[i];
             }
