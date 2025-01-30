@@ -29,6 +29,7 @@ public class recursion3 {
         String mapping = keypad[currChar- '0'];
         for(int i = 0; i<= mapping.length()-1;i++){
             keyComb(str,idx+ 1, Combo+ mapping.charAt(i));
+            
         }
         
 
